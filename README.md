@@ -19,7 +19,8 @@ A diferencia de las Pokédex tradicionales, esta versión ofrece una experiencia
 ## 📸 Capturas de Pantalla (Estructura Visual)
 
 | Lista General e Infinite Scroll | Tarjeta Expandida (Detalles) | Buscador en Acción |
-| :---: | :---: | :---: |
+| <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/e4fd663f-6c83-4d73-bc3e-0457c7cca703" /> |
+| <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/4256785b-18e0-423b-9d9f-0405d44f351c" /> | 
 | Tarjetas compactas con ID, Nombre y Sprite oficial. | Despliegue fluido con Stats Base, Tipos, Altura y Peso. | Diálogo emergente con la información del Pokémon buscado. |
 
 ---
